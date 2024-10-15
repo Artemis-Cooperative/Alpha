@@ -1,2 +1,2 @@
-# Alpha
+# alpha
 Test package.
