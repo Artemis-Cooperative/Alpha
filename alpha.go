@@ -2,6 +2,6 @@ package alpha
 
 import "fmt"
 
-func run() {
+func Run() {
 	fmt.Println("alpha")
 }
